@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<p><font size="3" face="arial" color="red">@ViewBag.ErrorMessage</font></p>
+<form action="~/Auth/Login" method="post">
+    <p>用户名：<input name="UserName" type="text" placeholder="请输入用户名" /></p>
+    <p>密 码：<input name="Password" type="password" placeholder="请输入密码" /></p>
+    <input name="Submit" type="submit" value="提交" />
+</form>
+
+@Html.ActionLink("注册新用户", "Register", "User")

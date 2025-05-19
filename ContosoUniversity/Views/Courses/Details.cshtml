@@ -1,0 +1,27 @@
+﻿@model ContosoUniversity.Models.Course
+@{
+    ViewBag.Title = "课程详情";
+}
+<h2>课程详情</h2>
+<dl class="dl-horizontal">
+    <dt>课程ID</dt>
+    <dd>@Model.CourseID</dd>
+    <dt>课程标题</dt>
+    <dd>@Model.Title</dd>
+    <dt>学分</dt>
+    <dd>@Model.Credits</dd>
+    <dt>课程描述</dt>
+    <dd>@Model.Description</dd>
+    <dt>课程图片</dt>
+    <dd>
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" alt="课程图片" style="max-width: 200px; max-height: 200px;">
+        }
+        else
+        {
+            <span>暂无图片</span>
+        }
+    </dd>
+</dl>
+@Html.ActionLink("返回列表", "Index")

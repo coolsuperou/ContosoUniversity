@@ -1,0 +1,34 @@
+﻿@model ContosoUniversity.Models.Course
+@{
+    ViewBag.Title = "删除课程";
+}
+<h2>删除课程</h2>
+<p>你确定要删除以下课程吗？</p>
+<dl class="dl-horizontal">
+    <dt>课程ID</dt>
+    <dd>@Model.CourseID</dd>
+    <dt>课程标题</dt>
+    <dd>@Model.Title</dd>
+    <dt>学分</dt>
+    <dd>@Model.Credits</dd>
+    <dt>课程描述</dt>
+    <dd>@Model.Description</dd>
+    <dt>课程图片</dt>
+    <dd>
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" alt="课程图片" style="max-width: 200px; max-height: 200px;">
+        }
+        else
+        {
+            <span>暂无图片</span>
+        }
+    </dd>
+</dl>
+@using (Html.BeginForm("DeleteConfirmed", "Courses", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(model => model.CourseID)
+    <button type="submit" class="btn btn-danger">删除</button>
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })
+}
