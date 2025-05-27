@@ -1,0 +1,208 @@
+时间：2025/5/22 15:13:40
+方法：AddDocumentTitle
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Fonts\msyh.ttf not found as file or resource.
+堆栈：   在 iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:13:40
+方法：PrintCourses
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Fonts\msyh.ttf not found as file or resource.
+堆栈：   在 iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 98
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:17:56
+方法：AddDocumentTitle
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Fonts\msyh.ttf not found as file or resource.
+堆栈：   在 iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:17:56
+方法：PrintCourses
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Fonts\msyh.ttf not found as file or resource.
+堆栈：   在 iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 98
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:25:10
+方法：AddDocumentTitle
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Fonts\msyh.ttf not found as file or resource.
+堆栈：   在 iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:25:10
+方法：PrintCourses
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Fonts\msyh.ttf not found as file or resource.
+堆栈：   在 iTextSharp.text.io.RandomAccessSourceFactory.CreateByReadingToMemory(String filename)
+   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 98
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:31:55
+方法：AddDocumentTitle
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:31:55
+方法：PrintCourses
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 102
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:31:56
+方法：AddDocumentTitle
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:31:56
+方法：PrintCourses
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 102
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:31:57
+方法：AddDocumentTitle
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:31:57
+方法：PrintCourses
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 102
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:31:57
+方法：AddDocumentTitle
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:31:57
+方法：PrintCourses
+错误：Font 'STSong-Light' with 'UniGB-UCS2-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 102
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:36:13
+方法：AddDocumentTitle
+错误：Font 'Arial Unicode MS' with 'Identity-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 72
+
+时间：2025/5/22 15:36:13
+方法：PrintCourses
+错误：Font 'Arial Unicode MS' with 'Identity-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 102
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 15:57:51
+方法：AddDocumentTitle
+错误：Font 'D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\fonts\MSYH.TTC' with 'Identity-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 73
+
+时间：2025/5/22 15:57:51
+方法：PrintCourses
+错误：Font 'D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\fonts\MSYH.TTC' with 'Identity-H' is not recognized.
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 98
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 46
+
+时间：2025/5/22 16:59:28
+方法：AddDocumentTitle
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\fonts\msyh.ttf is not a valid TTF or OTF file.
+堆栈：   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 74
+
+时间：2025/5/22 16:59:28
+方法：PrintCourses
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\fonts\msyh.ttf is not a valid TTF or OTF file.
+堆栈：   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 99
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 47
+
+时间：2025/5/22 17:01:03
+方法：AddDocumentTitle
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\fonts\msyh.ttf is not a valid TTF or OTF file.
+堆栈：   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 74
+
+时间：2025/5/22 17:01:04
+方法：PrintCourses
+错误：D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\fonts\msyh.ttf is not a valid TTF or OTF file.
+堆栈：   在 iTextSharp.text.pdf.TrueTypeFont.Process(Byte[] ttfAfm, Boolean preload)
+   在 iTextSharp.text.pdf.TrueTypeFontUnicode..ctor(String ttFile, String enc, Boolean emb, Byte[] ttfAfm, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 99
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 47
+
+时间：2025/5/22 17:07:55
+方法：AddDocumentTitle
+错误：Font 'SimHei' with 'Identity-H' is not recognized.
+内部异常：
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 73
+
+时间：2025/5/22 17:07:55
+方法：PrintCourses
+错误：Font 'SimHei' with 'Identity-H' is not recognized.
+内部异常：
+堆栈：   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded, Boolean cached, Byte[] ttfAfm, Byte[] pfb, Boolean noThrow, Boolean forceRead)
+   在 iTextSharp.text.pdf.BaseFont.CreateFont(String name, String encoding, Boolean embedded)
+   在 ContosoUniversity.Controllers.CoursesController.AddDocumentTitle(Document document) 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 102
+   在 ContosoUniversity.Controllers.CoursesController.PrintCourses() 位置 D:\programe\.Net\注册登录课程图片上传\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\ContosoUniversity\Controllers\CoursesController.cs:行号 47
+

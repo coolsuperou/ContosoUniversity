@@ -12,6 +12,9 @@
             <a href="@Url.Action("Create")" class="btn btn-success">
                 <i class="fa fa-plus"></i> 添加课程
             </a>
+            <a href="@Url.Action("PrintCourses")" class="btn btn-primary ml-3">
+                <i class="fa fa-print"></i> 打印课程列表
+            </a>
         </div>
     </div>
 
@@ -74,4 +77,4 @@
             window.location.href = '@Url.Action("Delete", "Courses")?id=' + courseId;
         }
     }
-</script>    
+</script>
